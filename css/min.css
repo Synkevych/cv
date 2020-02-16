@@ -153,14 +153,12 @@ a:hover {
     display: table;
 }
 
-.clearfix:after(clear: both;
-) .left {
+.clearfix:after{
+    clear: both;
+}
+.left {
     float: left;
 }
-
-
-
-
 
 .none {
     display: inline-block;
