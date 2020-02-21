@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
     <title>graph</title>
-    <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="graph" fill="#000000" fill-rule="nonzero">
             <path d="M704,256 L512,256 L512,896 L704,896 L704,256 Z M960,448 L768,448 L768,896 L960,896 L960,448 Z M64,960 L64,832 L128,832 L128,768 L64,768 L64,640 L128,640 L128,576 L64,576 L64,448 L128,448 L128,384 L64,384 L64,256 L128,256 L128,192 L64,192 L64,64 L128,64 L128,0 L0,0 L0,1024 L1024,1024 L1024,960 L64,960 Z M448,576 L256,576 L256,896 L448,896 L448,576 Z" id="Shape"></path>
