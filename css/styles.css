@@ -620,7 +620,7 @@ print {
 
 
 .icon-summary:before {
-    content: url(http://synkevych.info/image/icon/icon-summary.svg)
+    content: url(https://synkevych.info/image/icon/icon-summary.svg)
 }
 .icon-summary:before {
 }
@@ -633,31 +633,31 @@ print {
 }
 
 .icon-word {
-    content: url(http://synkevych.info/image/icon/icon-word.svg)
+    content: url(https://synkevych.info/image/icon/icon-word.svg)
 }
 
 .icon-gears{
-    content: url(http://synkevych.info/image/icon/icon-gears.svg);
+    content: url(https://synkevych.info/image/icon/icon-gears.svg);
 }
 
 .icon-tag:before {
-    content: url(http://synkevych.info/image/icon/icon-tag.svg)
+    content: url(https://synkevych.info/image/icon/icon-tag.svg)
 }
 
 .icon-case:before {
-    content: url(http://synkevych.info/image/icon/icon-case.svg);
+    content: url(https://synkevych.info/image/icon/icon-case.svg);
 }
 
 .icon-chart:before {
-    content: url(http://synkevych.info/image/icon/icon-chart.svg)
+    content: url(https://synkevych.info/image/icon/icon-chart.svg)
 }
 
 .icon-cap:before {
-    content: url(http://synkevych.info/image/icon/icon-cap.svg)
+    content: url(https://synkevych.info/image/icon/icon-cap.svg)
 }
 
 .icon-link:before {
-    content: url(http://sunkevuch.info/image/icon/link.svg)
+    content: url(https://sunkevuch.info/image/icon/link.svg)
 }
 
 * {
@@ -701,7 +701,7 @@ a:focus {
 }
 
 a[href^="//"]:after,
-a[href^="http"]:after {
+a[href^="https"]:after {
     position: relative;
     font-size: .5em;
     top: -.6em;
